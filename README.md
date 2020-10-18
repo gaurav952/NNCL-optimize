@@ -1,4 +1,4 @@
-# NNCL-optimize
+# Generic Search Optimizer and Library Books Recommendation System
 An optimized search technique for Central Library of Thapar University using word2vec model.
 
 ## Citations
